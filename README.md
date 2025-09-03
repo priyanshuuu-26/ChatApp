@@ -120,11 +120,11 @@ Replace `YOUR_COMPUTER_IP_ADDRESS` with your local IP address (e.g., `192.168.1.
 
 ## 🌱 Future Improvements
 
-- [x] Database Integration (MongoDB) for users & chat history
-- [x] User Authentication (login/registration system)
-- [x] Dynamic Contacts via API
-- [x] Typing Indicators (“... is typing”)
-- [x] Online Status (active users)
+- [ ] Database Integration (MongoDB) for users & chat history
+- [ ] User Authentication (login/registration system)
+- [ ] Dynamic Contacts via API
+- [ ] Typing Indicators (“... is typing”)
+- [ ] Online Status (active users)
 - [ ] Group Chats
 
 ---
