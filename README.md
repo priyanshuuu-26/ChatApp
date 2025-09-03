@@ -73,6 +73,8 @@ cd your-ChatApp/chat_app
 flutter pub get
 flutter run
 
+---
+
 ### Importants Changes
 
 ⚠️ Configure the Server IP Address
@@ -88,6 +90,7 @@ final socketProvider = Provider<IO.Socket>((ref) {
 
 Replace YOUR_COMPUTER_IP_ADDRESS with your local IP (e.g., 192.168.1.10).
 
+---
 
 ## 🧪 How to Use
 
@@ -101,6 +104,7 @@ Replace YOUR_COMPUTER_IP_ADDRESS with your local IP (e.g., 192.168.1.10).
 
 5. Messages appear instantly across devices.
 
+---
 
 ## 🌱 Future Improvements
 
@@ -114,4 +118,4 @@ Replace YOUR_COMPUTER_IP_ADDRESS with your local IP (e.g., 192.168.1.10).
 
 5. ✅ Online Status (active users)
 
-#6. ✅ Group Chats
+6. ✅ Group Chats
