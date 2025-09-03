@@ -49,16 +49,16 @@ Make sure you have installed:
 
 ### ⚙️ Backend Setup
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 
-# 2. Navigate to backend directory
+2. Navigate to backend directory
 cd your-repo-name/chat_backend
 
-# 3. Install dependencies
+3. Install dependencies
 npm install
 
-# 4. Start the server
+4. Start the server
 node index.js
 You should see: Server is running on port 3000
 
@@ -66,10 +66,10 @@ You should see: Server is running on port 3000
 
 ### 📱 Frontend Setup
 
-# 1. Navigate to the frontend directory
+1. Navigate to the frontend directory
 cd your-ChatApp/chat_app
 
-# 2. Install Flutter dependencies
+2. Install Flutter dependencies
 flutter pub get
 flutter run
 
@@ -91,27 +91,27 @@ Replace YOUR_COMPUTER_IP_ADDRESS with your local IP (e.g., 192.168.1.10).
 
 ## 🧪 How to Use
 
-#1. Run the backend server.
+1. Run the backend server.
 
-#2. Launch the Flutter app on two devices (emulators or real devices).
+2. Launch the Flutter app on two devices (emulators or real devices).
 
-#3. Enter usernames (e.g., Alice and Bob).
+3. Enter usernames (e.g., Alice and Bob).
 
-#4. Select a contact and start chatting.
+4. Select a contact and start chatting.
 
-#5. Messages appear instantly across devices.
+5. Messages appear instantly across devices.
 
 
 ## 🌱 Future Improvements
 
-#1. ✅ Database Integration (MongoDB) for users & chat history
+1. ✅ Database Integration (MongoDB) for users & chat history
 
-#2. ✅ User Authentication (login/registration system)
+2. ✅ User Authentication (login/registration system)
 
-#3. ✅ Dynamic Contacts via API
+3. ✅ Dynamic Contacts via API
 
-#4. ✅ Typing Indicators (“... is typing”)
+4. ✅ Typing Indicators (“... is typing”)
 
-#5. ✅ Online Status (active users)
+5. ✅ Online Status (active users)
 
 #6. ✅ Group Chats
