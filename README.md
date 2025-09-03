@@ -54,12 +54,12 @@ Make sure you have installed:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/priyanshuuu-26/ChatApp.git
     ```
 
 2. **Navigate to backend directory**
     ```bash
-    cd your-repo-name/chat_backend
+    cd ChatApp/chat_backend
     ```
 
 3. **Install dependencies**
@@ -79,7 +79,7 @@ Make sure you have installed:
 
 1. **Navigate to the frontend directory**
     ```bash
-    cd your-ChatApp/chat_app
+    cd ChatApp/chat_app
     ```
 
 2. **Install Flutter dependencies and run**
