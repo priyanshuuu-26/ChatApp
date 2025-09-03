@@ -50,17 +50,17 @@ Make sure you have installed:
 ### ⚙️ Backend Setup
 
 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+- git clone https://github.com/your-username/your-repo-name.git
 
 2. Navigate to backend directory
-cd your-repo-name/chat_backend
+- cd your-repo-name/chat_backend
 
 3. Install dependencies
-npm install
+- npm install
 
 4. Start the server
-node index.js
-You should see: Server is running on port 3000
+- node index.js
+- You should see: Server is running on port 3000
 
 ---
 
